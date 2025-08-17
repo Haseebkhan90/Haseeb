@@ -1,5 +1,5 @@
 
-<img align="right" height="185" style="margin-left: 20px; margin-bottom: 10px;" src="https://avatars.githubusercontent.com/u/189465563?v=4"  />
+<img align="right" height="185 src="https://avatars.githubusercontent.com/u/189465563?v=4"  />
 
 
 <h1 align="center">Hi , I'm Haseeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
