@@ -14,8 +14,8 @@ Skilled in <b>WordPress, PHP, Firebase, SQL, React, and Tailwind CSS</b>, I love
 ⚡ With dedication and Allah’s guidance, I believe I can overcome any challenge and achieve excellence in my craft.  
 </p>
 
+- ## Find me on:
 
-###
 
 <div align="center">
   <a href="mailto:mhaseebkhan536@gmail.com" target="_blank">
@@ -41,8 +41,9 @@ Skilled in <b>WordPress, PHP, Firebase, SQL, React, and Tailwind CSS</b>, I love
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haseebkhan90&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
 
+
+##  Languages and Tools:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
