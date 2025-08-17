@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Haseeb Khan]
 
 🚀 Passionate [Your Role e.g. Web Developer ]  
 💻 Love building impactful projects with clean & scalable code  
