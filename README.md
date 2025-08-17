@@ -1,78 +1,97 @@
-<img align="right" height="185" style="margin-left: 20px; margin-bottom: 10px;" src="https://avatars.githubusercontent.com/u/189465563?v=4"  />
+ <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Haseeb+Khan;Frontend+Developer;React+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
-<h3 align="center">Hi , I'm Haseeb 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h3>
-
-<h3>
-  <img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="40px" height="40px"> 
-  About Me :
-</h3>
-<hr style="width: 80%; border: 1px solid #444; margin: auto; margin-top: -5px; margin-bottom: 20px;">
-
-<p>
-I am a passionate <b>Web Developer from Pakistan</b>, with a strong drive to create modern, scalable, and user-focused web applications.  
-Skilled in <b>WordPress, PHP, Firebase, SQL, React, and Tailwind CSS</b>, I love turning ideas into impactful digital products.  
-<br><br>
-🌱 Currently, I am sharpening my skills and working towards becoming a complete <b>MERN Stack Developer</b>.<br>  
-⚡ With dedication and Allah’s guidance, I believe I can overcome any challenge and achieve excellence in my craft.  
-</p>
-
----
-
-🌍 Find me on:
-
-<div align="center">
-  <a href="mailto:mhaseebkhan536@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/haseeb-khan-4b9685274/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100021003743834" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
+<div align="right">
+  <img height="200" src="https://avatars.githubusercontent.com/u/189465563?v=4" style="border-radius:50%; margin-left:20px;" alt="Haseeb Khan" />
 </div>
 
+ <h3>🚀 About Me</h3>  
+
+I'm a **Frontend Developer from Pakistan** with expertise in building modern, responsive, and user-friendly web applications.  
+I love solving challenging problems and crafting clean, scalable code.  
+
+- 🔭 Currently working on advanced **React.js projects**  
+- 🌱 Learning **Advanced React Patterns & Performance Optimization**  
+- 💬 Ask me about **React, JavaScript, or frontend development**  
+- ⚡ Fun fact: I can solve a **Rubik's Cube in under 2 minutes**  
+
 ---
 
-📊 GitHub Stats:
+ <h3>🛠 Tech Stack  </h3>
+
+**Frontend Development**  
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,materialui,redux,graphql" /> 
+</div>  
+
+**Backend & Databases**  
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,mongodb" /> 
+</div>  
+
+**Tools & Platforms**  
+<div align="center"> 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,webpack,vite,vercel,netlify" /> 
+</div>  
+
+---
+
+<h3>📊 GitHub Stats  <h3/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Haseebkhan90&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Haseebkhan90&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseebkhan90&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebkhan90&layout=compact&theme=radical&langs_count=8" height="160" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Haseebkhan90&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Haseebkhan90&theme=radical&fire=5D3FD3&currStreakLabel=5D3FD3" height="160" />
 </div>
 
 ---
 
-🛠️ Languages & Tools:
+<h3>🏆 GitHub Trophies  </h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Haseebkhan90&theme=radical&no-bg=true&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </div>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haseebkhan90/Haseebkhan90/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Haseebkhan90/Haseebkhan90/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Haseebkhan90/Haseebkhan90/output/pacman-contribution-graph.svg">
-</picture>
+<h3>🌟 Featured Projects </h3> 
+
+| Project           | Description                     | Tech Stack                 |
+|-------------------|---------------------------------|----------------------------|
+| **E-Commerce App** | Modern e-commerce platform     | React, Tailwind, Firebase  |
+| **Portfolio Site** | Professional developer portfolio | Next.js, Framer Motion     |
+| **Task Manager**   | Productivity application       | React, Material UI         |
+
+---
+
+<h3> 📈 Contribution Graph  </h3>
+
+<div align="center">
+  <img src="https://github.com/Haseebkhan90/Haseebkhan90/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
+</div>
+
+---
+
+<h3>📫 Let's Connect  </h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/haseeb-khan-4b9685274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mhaseebkhan536@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haseebkhan90&color=5D3FD3&style=flat-square" />
+</div>
