@@ -30,6 +30,25 @@ I love solving challenging problems and crafting clean, scalable code.
 
 ---
 
+<h3>📫 Let's Connect  </h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/haseeb-khan-4b9685274/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mhaseebkhan536@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+
+---
+
 <h3>📊 GitHub Stats  <h3/>
 
 <div align="center">
@@ -66,24 +85,7 @@ I love solving challenging problems and crafting clean, scalable code.
   <img src="https://github.com/Haseebkhan90/Haseebkhan90/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
 </div>
 
----
 
-<h3>📫 Let's Connect  </h3>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/haseeb-khan-4b9685274/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mhaseebkhan536@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</div>
 
 ---
 
