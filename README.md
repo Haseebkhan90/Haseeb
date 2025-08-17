@@ -7,12 +7,7 @@
  <h3>🚀 About Me</h3>  
 
 I'm a **Frontend Developer from Pakistan** with expertise in building modern, responsive, and user-friendly web applications.  
-I love solving challenging problems and crafting clean, scalable code.  
-
-- 🔭 Currently working on advanced **React.js projects**  
-- 🌱 Learning **Advanced React Patterns & Performance Optimization**  
-- 💬 Ask me about **React, JavaScript, or frontend development**  
-- ⚡ Fun fact: I can solve a **Rubik's Cube in under 2 minutes**  
+I love solving challenging problems and crafting clean, scalable code.
 
 ---
 
