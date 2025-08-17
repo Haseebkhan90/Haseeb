@@ -1,14 +1,19 @@
 
 <img align="right" height="185" src="https://avatars.githubusercontent.com/u/189465563?v=4"  />
 
-###
 
 <h1 align="center">Hi , I'm Haseeb <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-###
-<h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = "50px" height ="50px">About Me :</h2>
-<p align="center">I am a passionate **Web Developer from Pakistan**, dedicated to building powerful, modern, and user-friendly web applications.  
-With strong expertise in **WordPress, PHP, Firebase, SQL, React, and Tailwind CSS**, I deliver efficient and scalable solutions.</p>
+
+<h2><img src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50px" height="50px"> About Me :</h2>
+<p align="center">
+I am a passionate <b>Web Developer from Pakistan</b>, with a strong drive to create modern, scalable, and user-focused web applications.  
+Skilled in <b>WordPress, PHP, Firebase, SQL, React, and Tailwind CSS</b>, I love turning ideas into impactful digital products.  
+<br><br>
+🌱 Currently, I am sharpening my skills and working towards becoming a complete <b>MERN Stack Developer</b>.  
+⚡ With dedication and Allah’s guidance, I believe I can overcome any challenge and achieve excellence in my craft.  
+</p>
+
 
 ###
 
@@ -51,8 +56,10 @@ With strong expertise in **WordPress, PHP, Firebase, SQL, React, and Tailwind CS
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <a href="(mailto:mhaseebkhan536@gmail.com)" target="_blank">
+  <a href="mailto:mhaseebkhan536@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:mhaseebkhan536@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/haseeb-khan-4b9685274/" target="_blank">
